@@ -29,3 +29,6 @@
 <p>To add comment to a post go to http://localhost:3100/api/comment/create (with POST method)</p>
 
 ![image](https://user-images.githubusercontent.com/37384220/121706914-fad06580-cacd-11eb-94c6-ac2c7200df23.png)
+
+
+<p>change the connection string in the .env file to your own</p>
