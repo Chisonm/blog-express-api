@@ -15,8 +15,16 @@
   <li>datauri</li>
   <li>coudinary</li>
 </ul>
+
+<h3> Post CRUD </h3>
 <p>To create a post go to http://localhost:3100/api/posts/create (with POST method)</p>
 <p> To view all post go to http://localhost:3100/api/posts/allpost (with GET method)</p>
 <p> To view single post go to http://localhost:3100/api/posts/{id} (with GET method And pass the id)</p>
-<p> To update post go to http://localhost:3100/api/posts/{id} (with POST method And pass the id)</p>
+<p> To update post go to http://localhost:3100/api/posts/{id} (with PUT method And pass the id)</p>
+<p> To delete post go to http://localhost:3100/api/posts/{id} (with DELETE method And pass the id)</p>
+<p> To delete post go to http://localhost:3100/api/posts/paginate (with GET method)</p>
+
+
+<h3> Add comment to a post </h3>
+<p>To add comment to a post go to http://localhost:3100/api/comment/create (with POST method)</p>
 
